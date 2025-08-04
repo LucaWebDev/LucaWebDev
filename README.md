@@ -46,11 +46,6 @@ Feel free to connect with me for any collaboration or project inquiries!
 ## 💼 Experience
 I have worked on several projects ranging from small startups to large enterprises. My journey in web development has allowed me to work with a diverse set of technologies and tools, enabling me to deliver high-quality software solutions.
 
-## 📊 GitHub Stats
-![my_nickname's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucaWebDev&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LucaWebDev&layout=compact&theme=radical)
-
-
 ## 🌐 Let's Connect!
 - **Website:** [My Personal Website](https://www.mywebsite.com)
 - **Twitter:** [My Twitter Profile](https://twitter.com/my_nickname)
