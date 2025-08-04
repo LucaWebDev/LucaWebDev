@@ -1,4 +1,4 @@
-# Hi there 👋, I'm my_nickname
+# Hi there 👋, Luca
 
 ## 👨‍💻 About Me
 I'm a passionate **Web Developer** with 4 years of experience in the industry. My expertise lies in building robust and scalable applications using various technologies. I have a strong background in **JavaScript** and **Java SE 11**, and I'm proficient in utilizing **AWS Cloud Technologies** to deploy and manage applications.
