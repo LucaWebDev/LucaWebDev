@@ -1,12 +1,12 @@
 # Hi there 👋, Luca
 
 ## 👨‍💻 About Me
-I'm a passionate **Web Developer** with 4 years of experience in the industry. My expertise lies in building robust and scalable applications using various technologies. I have a strong background in **JavaScript** and **Java SE 11**, and I'm proficient in utilizing **AWS Cloud Technologies** to deploy and manage applications.
+I'm a passionate **Web Developer** with 4 years of experience in the industry. My expertise lies in building robust and scalable applications using various technologies. I have a background in **JavaScript** and **Java SE 11**, and I'm proficient in utilizing **AWS Cloud Technologies** to deploy and manage applications.
 
 ## 🛠️ Technologies & Tools
 - **Languages:** JavaScript, Java SE 11
 - **Cloud:** AWS (Amazon Web Services)
-- **Web Development:** HTML, CSS, Node.js, React, Angular
+- **Web Development:** HTML, CSS, Node.js, React
 - **Databases:** MySQL, MongoDB
 - **Version Control:** Git, GitHub
 - **Other Tools:** Docker, Jenkins, Kubernetes
